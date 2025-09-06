@@ -1,5 +1,5 @@
 # week07/.github/workflows/backend_ci.yml
-# My comment for task 7.1P
+# My comment for the task 7.1P
 
 name: Backend CI - Test, Build and Push Images to ACR
 
